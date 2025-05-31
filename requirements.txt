@@ -1,0 +1,6 @@
+streamlit
+langchain
+llama-index
+openai
+faiss-cpu
+python-dotenv
