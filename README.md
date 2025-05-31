@@ -1,4 +1,4 @@
-# 🧠 Generative AI Demo Project
+# 🧠 Generative AI chatbot using OpenAI, LangChain, LlamaIndex, and Streamlit
 
 This project demonstrates a **Generative AI App** that uses:
 - **OpenAI GPT-4 API** for text generation
